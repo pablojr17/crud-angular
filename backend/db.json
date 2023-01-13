@@ -4,6 +4,11 @@
       "id": 2,
       "name": "Notebook Mac Pro",
       "price": 12000.89
+    },
+    {
+      "name": "Geladeira",
+      "price": "4590.00",
+      "id": 3
     }
   ]
 }
